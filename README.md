@@ -4,6 +4,8 @@
 
 This project focuses on implementing the Particle Swarm Optimization (PSO) algorithm to optimize a non-convex function. PSO, a bio-inspired optimization algorithm, mimics the social behavior observed in animal swarms such as fish and flies. This methodology is effective in finding the global minimum of complex optimization problems where the solution space is vast and filled with multiple local minima.
 
+![](readme_visuals/animation.gif)
+
 ### Project Description
 
 Particle Swarm Optimizer is an innovative approach that utilizes multiple agents, initially scattered randomly across the solution space, which gradually converge around the optimal solution. The essence of PSO lies in its ability to guide these agents towards the most promising areas of the solution space based on a combination of their individual knowledge and the swarm's collective experience.
